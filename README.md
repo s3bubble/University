@@ -4,8 +4,17 @@ Add your website below simply clone this repo create a branch add your website t
 
 When your PR has been merged your website is ready.
 
-
-| Name          | Repo                | Logo                                                                       | Description                                         |
-| ------------- | ------------------- | -------------------------------------------------------------------------- | --------------------------------------------------- |
-| S3Bubble      | s3bubble/university | https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png | When your PR has been merged your website is ready. |
-| SoBytes       | samueleastdev/cvt   | https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png | When your PR has been merged your website is ready. |
+```json
+{
+    title: 'S3Bubble',
+    repo: 's3bubble/university',
+    logo: 'https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png',
+    description: 'When your PR has been merged your website is ready.'
+},
+{
+    title: 'SoBytes',
+    repo: 'samueleastdev/cvt',
+    logo: 'https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png',
+    description: 'When your PR has been merged your website is ready.'
+}
+```
