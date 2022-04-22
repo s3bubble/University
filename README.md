@@ -4,7 +4,7 @@ Add your website below simply clone this repo create a branch add your website t
 
 When your PR has been merged your website is ready.
 
-```json
+```js
 {
     title: 'S3Bubble',
     repo: 's3bubble/university',
