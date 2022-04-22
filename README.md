@@ -6,15 +6,15 @@ When your PR has been merged your website is ready.
 
 ```js
 {
-    title: 'S3Bubble',
-    repo: 's3bubble/university',
-    logo: 'https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png',
-    description: 'When your PR has been merged your website is ready.'
+    title: "S3Bubble",
+    repo: "s3bubble/university",
+    logo: "https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png",
+    description: "When your PR has been merged your website is ready."
 },
 {
-    title: 'SoBytes',
-    repo: 'samueleastdev/cvt',
-    logo: 'https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png',
-    description: 'When your PR has been merged your website is ready.'
+    title: "SoBytes",
+    repo: "samueleastdev/cvt",
+    logo: "https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png",
+    description: "When your PR has been merged your website is ready."
 }
 ```
