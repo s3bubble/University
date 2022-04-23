@@ -11,12 +11,14 @@ When your PR has been merged your website is ready.
 			"repo": "s3bubble/university",
 			"logo": "https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png",
 			"description": "When your PR has been merged your website is ready."
+            "private": true
 		},
 		{
 			"title": "SoBytes",
 			"repo": "samueleastdev/cvt",
 			"logo": "https://s3bubble.com/wp-content/themes/s3admin/app/production/img/logo.png",
-			"description": "When your PR has been merged your website is ready."
+			"description": "When your PR has been merged your website is ready.",
+            "private": false
 		}
 	]
 }
